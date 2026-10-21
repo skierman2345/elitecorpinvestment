@@ -48,8 +48,8 @@ function RComponent({username}) {
                     </div>
                 </div>
                 <div className='RC_Box1' >
-                    <p className='IntroTitleRC'>Invite your family and friends to Elitecorp Investment and earn $5 instantly and more percentage referral bonuses according to the plan made by your referee</p>
-                    <p className='IntroDetailsRC'>Each member has a unique Elitecorp Investment referral code  to share with family and friends and receive $5 instantly and more percentage referral bonuses from your referee investment plan made. If any one signs up with your referral code, he or she will be added to your referral program. Your referral code can be used to invite as many users as possible.</p>
+                    <p className='IntroTitleRC'>Invite your family and friends to Prime Asset Flow and earn $5 instantly and more percentage referral bonuses according to the plan made by your referee</p>
+                    <p className='IntroDetailsRC'>Each member has a unique Prime Asset Flow referral code  to share with family and friends and receive $5 instantly and more percentage referral bonuses from your referee investment plan made. If any one signs up with your referral code, he or she will be added to your referral program. Your referral code can be used to invite as many users as possible.</p>
                     <p className='IntroDetailsRC2' >Copy the code below invite your friends.</p>
                     <div className='RC_Box3'>
                         <p className='RC_p'>Your referall ID is:</p>

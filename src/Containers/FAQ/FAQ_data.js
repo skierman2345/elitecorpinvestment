@@ -1,15 +1,15 @@
 const data = [
     {
-        question: "Is Elitecorpinvestment a legal entity?",
-        answer: "Elitecorpinvestment is an official Private Limited Company registered in United States of America - THE ELITE CORPORATION (USA) LTD (Registration No. GA618540)."
+        question: "Who operates Prime Asset Flow?",
+        answer: "Prime Asset Flow is an online investment platform. For details about the company behind the platform, please contact our support team at support@primeassetflow.com."
     },
     {
-        question: "What do I need to do to start investing with Elitecorpinvestment?",
-        answer: "If you are reading this text you already have the required minimum, which is the Internet connection and the computing device. To create investment deposit you will also need to have funds in one of available online Bitcoin Wallets such as Blockchain.info, Binance, Cex, Metamask, Paypal, Paxful, Localbitcoins, Xapo or Coinbase wallet, etc. We work with all Bitcoin wallets. Making deposit is as easy as clicking the corresponding button within your personal Cryptocoinsfx account and following the instructions provided along the way."
+        question: "What do I need to do to start investing with Prime Asset Flow?",
+        answer: "If you are reading this text you already have the required minimum, which is the Internet connection and the computing device. To create investment deposit you will also need to have funds in one of available online Bitcoin Wallets such as Blockchain.info, Binance, Cex, Metamask, Paypal, Paxful, Localbitcoins, Xapo or Coinbase wallet, etc. We work with all Bitcoin wallets. Making deposit is as easy as clicking the corresponding button within your personal Prime Asset Flow account and following the instructions provided along the way."
     },
     {
         question: "When the market isn't favorable, will I lose my capital or profit earned?",
-        answer: "Investing with Elite Corp gives you no reason to lose wether the market is bearish or bullish. Our professional team can predict the markets trends for two days using bots which gives us little or no losses."
+        answer: "All trading carries risk, and losses are possible in any market. At Prime Asset Flow, our team uses automated tools and strategy to manage risk in both bearish and bullish markets."
     },
     {
         question: "How does it work?",
@@ -33,7 +33,7 @@ const data = [
     },
     {
         question: "Will I still do any other thing once I invest to keep earning?",
-        answer: "No. Once you invest with Elite Corp your job is to monitor your dashboard for your daily income. Contact our support team if your daily profits didn't reflect on your dashboard."
+        answer: "No. Once you invest with Prime Asset Flow your job is to monitor your dashboard for your daily income. Contact our support team if your daily profits didn't reflect on your dashboard."
     },
     {
         question: "How can I invest?",
@@ -53,39 +53,39 @@ const data = [
     },
     {
         question: "Is my return of investment guaranteed?",
-        answer: "Yes, we are using the most sophisticated, encrypted and trusted protection against every possible aspect. Our investors' Return Of Investment (ROI) is 100% guarenteed, all we need is trust from our clients and we would work tirelessly to ensure every investor earns daily profits."
+        answer: "No investment return can be guaranteed, and the value of your investment may go down as well as up. We use encrypted, trusted protection for your account and work hard to deliver the best possible results for our investors."
     },
     {
         question: "Is it availiable in my country?",
         answer: "Yes. Any individual from any country may open an account with us and we are happy to accept investors from any place in the world. Tell the admin the country you're chatting from to be assisted with the recommended bitcoin wallet."
     },
     {
-        question: "What broker do Elite Corp use?",
+        question: "What broker does Prime Asset Flow use?",
         answer: "We trade with MetaTrader4 & MetaTrader5 with IQ Options for binary."
     },
     {
-        question: "Where is Elite Corp located?",
-        answer: "Elite Corp is headquatered in 69 Piedmont St, Worcester, MA 01610, USA."
+        question: "Where is Prime Asset Flow located?",
+        answer: "Prime Asset Flow operates online and serves investors worldwide. Contact our support team at support@primeassetflow.com for more information."
     },
     {
-        question: "How long have Elite corp been existing?",
-        answer: "Elite Corp was officially founded on the 29th Febuary 2017, under Companies Act 2006 of the United States of America. For verification view certificate."
+        question: "How long has Prime Asset Flow been operating?",
+        answer: "For information about our company history, please contact our support team at support@primeassetflow.com."
     },
     {
         question: "What do I do if I have questions and problems?",
         answer: "Contact our 24/7 hours support team from our website or our telegram channel."
     },
     {
-        question: "What is the main idea behind the establishment of Elite Corp?",
+        question: "What is the main idea behind the establishment of Prime Asset Flow?",
         answer: "Our goal is to provide to our customers a user-friendly investment platform. This is why we have extensive infrastructure. Any of our clients can start with a simple click as soon as they are ready without any knowledge required."
     },
     {
         question: "You seem to provide a quite lucrative interest rate for a limited period of time. Where are the funds coming from?",
-        answer: "Elite Corp have a team of experienced traders and financial analysts, their experienced and strategies makes it possible to provied high interest rate to our customers."
+        answer: "Prime Asset Flow has a team of experienced traders and financial analysts whose experience and strategies drive our trading results. Returns are not guaranteed."
     },
     {
-        question: "What makes Elitecorpinvestment different?",
-        answer: "We take a modern approach to invest. We measure ourselves not only by what we do but by how we do it. Every action and decision is based on building trust and seeing things from the view of our investors. At Elitecorpinvestment, we believe in putting investors first. We champion investors and those who serve them because we believe everyone should have the opportunity to achieve great financial outcomes."
+        question: "What makes Prime Asset Flow different?",
+        answer: "We take a modern approach to invest. We measure ourselves not only by what we do but by how we do it. Every action and decision is based on building trust and seeing things from the view of our investors. At Prime Asset Flow, we believe in putting investors first. We champion investors and those who serve them because we believe everyone should have the opportunity to achieve great financial outcomes."
     }
 ]
 
