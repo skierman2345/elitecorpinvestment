@@ -1,0 +1,10 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # react-scripts 4 uses webpack 4, whose md4 hashing needs the legacy OpenSSL provider on Node 17+
+  NODE_OPTIONS = "--openssl-legacy-provider"
+  # Don't fail the build on pre-existing ESLint warnings (CRA treats warnings as errors when CI=true)
+  CI = "false"
