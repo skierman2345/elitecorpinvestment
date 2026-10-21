@@ -8,7 +8,7 @@ function AwesomeFacts(props) {
     return (
         <div className='AwesomeFactsContainer'>
             <img src={growth} />
-            <h3>Elite Corp Investment</h3>
+            <h3>Prime Asset Flow</h3>
             <h1>AWESOME FACTS</h1>
             <p>Here are some important facts about us</p>
             <div className='AwesomeFacts'>

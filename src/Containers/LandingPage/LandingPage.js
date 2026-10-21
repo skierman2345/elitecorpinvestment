@@ -95,7 +95,7 @@ function LandingPage(props) {
                 <section style={width > 900 ? {display: 'flex'} : null }>
                     <div className='aboutus_about' style={width > 900 ? {width: '50%', marginRight: 30} : null }>
                         <h3 style={{textAlign: 'center'}}>We are Strategic and Awesome</h3>
-                        <p>Elitecorp investment is an automated online investment platform that is a top secured and profitable option for you. Part of Elitecorpinvestment - the team of professional traders focusing mainly on Bitcoin and other cryptocurrencies trading over multiple Exchanges and markets. Headquartered in Massachusetts, Elitecorp investment is already becoming the Panam's fastest-growing FinTech company. Our name is synonymous with productive and profitable trading solutions where our investors need little to no trading experience at all. With Elitecorpinvestment, investors choose one of our three simple investment designs, make a deposit and sit back while our experts take the control.</p>
+                        <p>Prime Asset Flow is an automated online investment platform built with security in mind. Our team of traders focuses mainly on Bitcoin and other cryptocurrencies, trading across multiple exchanges and markets. Our goal is to offer straightforward trading solutions that require little to no trading experience. With Prime Asset Flow, investors choose one of our three simple investment designs, make a deposit and sit back while our experts take the control.</p>
                         <div className='Read_More_button' onClick={() => props.history.push('/aboutus')}>
                             <p>Read More</p>
                         </div>
@@ -109,18 +109,18 @@ function LandingPage(props) {
             <section>
                 <div className='why_elite_Header'style={{paddingTop: 20}}>
                     <div style={{display: 'grid', justifyContent: 'center'}}>
-                        <h2>WHY CHOOSE ELITE <span style={{color:'yellow'}}>CORP</span></h2>
+                        <h2>WHY CHOOSE PRIME ASSET <span style={{color:'yellow'}}>FLOW</span></h2>
                     </div>
                     <div style={{display: 'grid', justifyContent: 'center'}}>
                         <div className='about_line' />
                     </div>
                 </div>
                 <div className='Utitlty_container'>
-                <Utility icon={icon1} title='Fund withdrawal'>Elitecorp investment are able to withdraw funds and paid instantly.</Utility>
-                    <Utility icon={icon2} title='Overview'>We are a legal company registred in the United States of America, providing it's services to all country.</Utility>
+                <Utility icon={icon1} title='Fund withdrawal'>Prime Asset Flow members can request withdrawals directly from their dashboard.</Utility>
+                    <Utility icon={icon2} title='Overview'>Prime Asset Flow provides its services to investors around the world.</Utility>
                     <Utility icon={icon3} title='Security'>We are using one of the most sophisticated, encrypted and trusted protection against every possible aspect.</Utility>
                     <Utility icon={icon4} title='Our Team'>Our professional and dedicated 24/7 support team will be accessible anytime any assistance is required.</Utility>
-                    <Utility icon={icon5} title='Guarantee'>We provide adequate insurance policy to our premium members.</Utility>
+                    <Utility icon={icon5} title='Commitment'>We are committed to transparency and to supporting our members at every step.</Utility>
                     <Utility icon={icon6} title='Diversification'>Our portfolio is diversified and taken care of by the most skilled crypto analysts and traders using automated trading bot and best strategies.</Utility>
                 </div>
             </section>
@@ -153,7 +153,7 @@ function LandingPage(props) {
                         <div className='about_line' />
                     </div>
                     <div style={{display: 'grid', justifyContent: 'center', width: '80%', marginLeft: '10%', textAlign: 'center'}}>
-                        <p style={{fontWeight: 600, color: 'rgb(59, 59, 59)', textAlign:'justify'}}>Using our master class strategy with our algorithm and automated trading bots and softwares we give our clients the best satisfaction by giving back to them 100% Return Of Investment (ROI) after making profitable entries in the crypto market. Investing with Elitecorp gives you no reason to loss whether the market is Bearish or Bullish. Invest with us now and start earning daily from the comfort of your home.</p>
+                        <p style={{fontWeight: 600, color: 'rgb(59, 59, 59)', textAlign:'justify'}}>Using our master class strategy with our algorithm and automated trading bots and softwares we aim to give our clients the best possible experience by making well-researched entries in the crypto market. At Prime Asset Flow, our team works to manage risk whether the market is Bearish or Bullish. Returns are not guaranteed and all investments carry risk. Invest with us from the comfort of your home.</p>
                     </div>
                 </div>
                 <div className='Utitlty_container'>
@@ -243,10 +243,10 @@ function LandingPage(props) {
                 </div>
                 <div className='Contact_main_container' style={width > 700 ? {display: 'flex'} : null}>
                     <div className='Contact_info' style={width > 700 ? {width: '50%'} : null}>
-                        <InfoBoxes icon={pin} title='Address' content='No 69 Piedmont St, Worcester, MA 01610, USA' />
-                        <InfoBoxes icon={email} title='Mail Us' content='support@elitecorpinvestment.org' />
-                        <InfoBoxes icon={phone} title='Phone' content='+16097952607' />
-                        <InfoBoxes icon={chatIcon} title='Website' content='www.elitecorpinvestment.org' />
+                        <InfoBoxes icon={pin} title='Address' content='Your business address here' />
+                        <InfoBoxes icon={email} title='Mail Us' content='support@primeassetflow.com' />
+                        <InfoBoxes icon={phone} title='Phone' content='+1 (000) 000-0000' />
+                        <InfoBoxes icon={chatIcon} title='Website' content='www.primeassetflow.com' />
                     </div>
                     <div className='sendMessage_container' style={width > 700 ? {width: '50%'} : null}>
                         <InputBox color='yellow' name='Email Address' />
@@ -257,7 +257,7 @@ function LandingPage(props) {
                 </div>
             </section>
             <div className='Footer'>
-                <p>Copyright © 2021 Elite Corp Investment</p>
+                <p>Copyright © 2026 Prime Asset Flow</p>
             </div>
             <Header login={() => props.history.push('/signin')} faq={() => props.history.push('/FAQs')} aboutus={() => props.history.push('/aboutus')} terms={() => props.history.push('/terms')} home={() => props.history.push('/')} />
         </div>

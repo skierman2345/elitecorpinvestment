@@ -13,32 +13,32 @@ import cg5 from '../../../Assets/C5.jpg';
 export const SliderData = [
     {
         image: cg1,
-        title: 'Elite Corp',
+        title: 'Prime Asset Flow',
         tag: 'WE ARE THE',
-        content: 'Elite corp investment - The best way to passive income, we are creating a business opportunity for investors who wishes to maximize digital currency and earn passively with little or no effort, and also aid our investors make their livestyle worth living without any left-out debt.'
+        content: 'Prime Asset Flow - The best way to passive income, we are creating a business opportunity for investors who wishes to maximize digital currency and earn passively with little or no effort, and also aid our investors make their livestyle worth living without any left-out debt.'
     },
     {
         image: cg2,
-        title: 'Elite Corp',
+        title: 'Prime Asset Flow',
         tag: 'WE ARE TRUSTED',
-        content: `Elite corp investment - We are trusted and reliable. Elitecorp investment is 24/7 available to serve you. Our clients satisfaction is our outmost concern and responsibility. Don't wait! Open an account with us today.`
+        content: `Prime Asset Flow - We are trusted and reliable. Prime Asset Flow is available 24/7 to serve you. Our clients satisfaction is our outmost concern and responsibility. Don't wait! Open an account with us today.`
     },
     {
         image: cg3,
-        title: 'Elite Corp',
+        title: 'Prime Asset Flow',
         tag: 'WE ALWAYS DELIVER',
-        content: `Elite corp investment - Invest in cryptocurrency and earn massive daily profits on money of the future today as fiat currency is fading.`
+        content: `Prime Asset Flow - Invest in cryptocurrency and earn massive daily profits on money of the future today as fiat currency is fading.`
     },
     {
         image: cg4,
-        title: 'Elite Corp',
-        tag: "YOUR ROI IS 100% GUARANTEED",
+        title: 'Prime Asset Flow',
+        tag: "WE PUT INVESTORS FIRST",
         content: `Join us today start earning from our VIP Channel, Investment Packages and Account Management Services. Enjoy 24/7 Support Service.`
     },
     {
         image: cg5,
-        title: 'Elite Corp',
+        title: 'Prime Asset Flow',
         tag: 'WE ARE GENUINE',
-        content: `We trade with bots and master class strategy on MetaTradet 4, MetaTrader 5 & IQ Option Binary Tradng Platform to make a lot of profit from the market to give you 100% ROI.`
+        content: `We trade with bots and master class strategy on MetaTradet 4, MetaTrader 5 & IQ Option Binary Tradng Platform to pursue consistent results in the market.`
     }
 ]

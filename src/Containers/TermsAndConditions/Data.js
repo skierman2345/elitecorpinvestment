@@ -61,11 +61,11 @@ const data = [
     },
     {
         label: "Referral Bonus",
-        property: "Invite your family and friends to Elitecorp Investment and receive $5 instantly. Each member has a unique Elitecorp Investment referral code  to share with family and friends and receive 5% of your referral capital. If any one signs up with your referral code, he or she will be added to your referral program. Your referral code can be used to invite as many users as possible."
+        property: "Invite your family and friends to Prime Asset Flow and receive $5 instantly. Each member has a unique Prime Asset Flow referral code  to share with family and friends and receive 5% of your referral capital. If any one signs up with your referral code, he or she will be added to your referral program. Your referral code can be used to invite as many users as possible."
     },
     {
         label: "",
-        property: "Invite your family and friends to Elitecorp Investment and earn $5 instantly and more percentage referral bonuses according to the plan made by your referee, "
+        property: "Invite your family and friends to Prime Asset Flow and earn $5 instantly and more percentage referral bonuses according to the plan made by your referee, "
     }
 ];
 
